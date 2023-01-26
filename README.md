@@ -10,7 +10,7 @@ O alura Spa é o site do spa da Alura. Este projeto eu desenvolvi durante o curs
 | :mortar_board: Certificado| [Ainda não concluído]()
 
 <!-- Imagem do projeto (#vitrinedev ao final do link) -->
-![](https://imgs.search.brave.com/tEPRQEDeGVbfooBHfRMpP7OFC8E8D0_petdNl3Ch4hQ/rs:fit:1200:768:1/g:ce/aHR0cDovLzMuYnAu/YmxvZ3Nwb3QuY29t/Ly1zYlJ6V1hHT3RV/Zy9WS3lMcVl5dXJK/SS9BQUFBQUFBQUFB/TS93R2JtZEZFcnd6/NC9zMTYwMC9zaXRl/X2VtX2NvbnN0cnVj/YW8uanBn#vitrinedev)
+![](https://3.bp.blogspot.com/-sbRzWXGOtUg/VKyLqYyurJI/AAAAAAAAAAM/wGbmdFErwz4/s1600/site_em_construcao.jpg#vitrinedev)
 
 # Detalhes do projeto
 ## Sobre o projeto e resultado final
