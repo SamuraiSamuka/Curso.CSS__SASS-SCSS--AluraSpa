@@ -1,0 +1,28 @@
+import styles abstract _variaveis.scss
+
+footer
+    display: flex
+    flex-direction: column
+    gap: 15px
+    margin-top: 1rem
+    padding: 1.5rem
+    color: $cor-terciaria
+    background-color: $cor-primaria
+    p 
+        display: flex
+        justify-content: center
+        align-items: center
+        font-size: $tamanho-fonte / 2.3
+        a 
+            color: $cor-terciaria    
+            text-decoration: none
+            margin-left: 5px
+            border-bottom: 1px solid $cor-terciaria
+            &:hover
+                border-bottom: 1px solid $cor-secundaria
+                color: $cor-secundaria
+        i
+            color: red
+            margin-left: 5px
+    .autoria
+        font-size: 14px

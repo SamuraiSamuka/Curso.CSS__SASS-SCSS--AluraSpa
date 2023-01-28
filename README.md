@@ -2,12 +2,12 @@
 O alura Spa é o site do Spa da Alura. 
 Este projeto eu desenvolvi durante o curso [SASS: CSS sintaticamente espetacular](https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular).
 
-| :placard: Vitrine.Dev     |[Samuel Carvalho](https://cursos.alura.com.br/vitrinedev/sscarvalho123)|
+| :placard: Vitrine.Dev     |[Samuel Carvalho](https://cursos.alura.com.br/vitrinedev/samurai-samuka)|
 | ------------------------  | --- |
-| :sparkles: Nome           | **Alura Spa**
+| :sparkles: Nome           | **Alura SPA**
 | :label: Tecnologias       | HTML, CSS, SASS
 | :rocket: Deploy           | [Ainda sem deploy]()
-| :fire: Curso/Challenge    | [SASS: CSS sintaticamente espetacular](https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular)
+| :fire: Curso              | [SASS: CSS sintaticamente espetacular](https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular)
 | :mortar_board: Certificado| [Ainda não concluído]()
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
