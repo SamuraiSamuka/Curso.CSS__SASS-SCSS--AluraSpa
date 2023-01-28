@@ -1,29 +1,29 @@
 # Alura Spa
-O alura Spa é o site do Spa da Alura. 
-Este projeto eu desenvolvi durante o curso [SASS: CSS sintaticamente espetacular](https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular).
+O alura Spa é um site de espaço de cuidado pessoal, o SPA da Alura. 
 
 | :placard: Vitrine.Dev     |[Samuel Carvalho](https://cursos.alura.com.br/vitrinedev/samurai-samuka)|
 | ------------------------  | --- |
 | :sparkles: Nome           | **Alura SPA**
-| :label: Tecnologias       | HTML, CSS, SASS
-| :rocket: Deploy           | [Ainda sem deploy]()
+| :label: Tecnologias       | SCSS, SASS, HTML
+| :rocket: Deploy           | [Alura SPA](alura-spa-samuka.vercel.app)
 | :fire: Curso              | [SASS: CSS sintaticamente espetacular](https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular)
-| :mortar_board: Certificado| [Ainda não concluído]()
+| :mortar_board: Certificado| [Certificado de SASS](https://cursos.alura.com.br/user/samurai-samuka/course/sass-css-sintaticamente-espetacular/certificate)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://3.bp.blogspot.com/-sbRzWXGOtUg/VKyLqYyurJI/AAAAAAAAAAM/wGbmdFErwz4/s1600/site_em_construcao.jpg#vitrinedev)
+![](https://raw.githubusercontent.com/SamuraiSamuka/AluraSPA/imagens/AluraSPA.png#vitrinedev)
+
 
 # Detalhes do projeto
-O projeto foi desenvolvido com base neste [código HTML inicial(download)](https://github.com/alura-cursos/alura-spa/archive/refs/heads/projeto_inicial.zip) e então estilizado utilizando SCSS.
+O projeto foi desenvolvido com base neste código HTML inicial[(download)](https://github.com/alura-cursos/alura-spa/archive/refs/heads/projeto_inicial.zip) e então estilizado utilizando SCSS.
 
-Veja aqui [o resultado final]()
+Veja aqui [o resultado final](alura-spa-samuka.vercel.app)
 
 ## Habilidades que utilizei/aprendi nesse projeto
 * O que é SASS e SCSS e pré-processamento;
-* Hierarquia
-* Variáveis
+* Hierarquia (nesting)
+* Variáveis e palavras reservadas do SASS
 * Comentários
 * Mixin e parâmetros;
-* Partials;
-* Include, imports;
-* Seletor &.
+* Partials, Include, imports;
+* Seletor &. e operações matemáticas
+* If e else
